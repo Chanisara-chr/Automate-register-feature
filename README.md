@@ -1,2 +1,2 @@
 # Automate Register Feature
-Automated scripts safeguard the user registration process for this project. Scripts test data validation, error handling for invalid data/missing fields, and overall registration flow.
+Secure User Registration: This project focuses on automated scripts for a user registration page. They validate data format (e.g., email format, password strength), handle missing fields, and ensure a smooth and secure registration experience.
